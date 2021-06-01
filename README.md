@@ -1,0 +1,2 @@
+# GitEx
+github연습
