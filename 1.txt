@@ -3,3 +3,5 @@ github연습하기
 1번 수정
 
 2번 수정
+
+3번 수정 local repository
